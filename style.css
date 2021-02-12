@@ -5,20 +5,8 @@
     text-align: center;
 
 }
-
-#main{
-    overflow: hidden;
-    background-color: rgba(128, 128, 128, 0.068);
-    margin-bottom: 1em;
-
-  }
-
-
-#tribute-info{
-    background-color: rgb(243, 243, 243);
-}
-.footer{
-    background-color:rgba(128, 128, 128, 0.068);
+header{
+    background-color: rgb(224, 224, 224);
 }
 .responsive {
     display: block;
